@@ -1,0 +1,84 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.user-sqm {
+    width: 300px;
+    text-align: right;
+    margin-top: 1rem;
+}
+
+.form-control {
+    display: inline-block !important;
+    text-align: right;
+}
+
+#header {
+    background-color: rgb(59, 59, 59);
+    color: white;
+}
+
+#header-logo {
+    max-width: 80%;
+    width: 300px;
+    margin: 2rem 0;
+}
+
+#header-title {
+    margin-bottom: 2rem;
+}
+
+.table-row:hover {
+    cursor: pointer;
+}
+
+.square-meter-cont {
+    margin-top: 2rem;
+}
+
+.is-bold {
+    font-weight: bold;
+}
+
+.is-light {
+    font-weight: lighter;
+    font-size: 0.8rem;
+    padding-left: 0.5rem;
+}
+
+.bottom-border {
+    border-bottom: 1px solid black;
+}
+
+.price-col {
+    width: 6rem;
+}
+
+.calculate-btn {    
+    margin-bottom: 5rem;
+}
+
+.price-header {
+    width: 100%;
+}
+
+.form-input {
+    padding: 0.5rem;
+    border-radius: 6px;
+    border: solid 1px black;
+    margin-top: 1rem;
+}
+
+#register-btn {
+    margin-top: 1rem;
+    margin-bottom: 5rem;
+}
+
+.customer-subhead {
+    margin-top: 3rem;
+}
+
+.active {
+    background-color: aquamarine;
+}
+
